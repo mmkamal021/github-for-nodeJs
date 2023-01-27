@@ -1,0 +1,27 @@
+// Git command
+
+1. git init
+2. ls -a
+3. git status
+4. git add .
+5. git commit -m "message"
+6. git push -u origin main
+
+
+// Unstaging git command
+1.git rm --cached
+2. git diff
+3. git restore
+4. git log // git commit history
+5. git add . && git commit -m "sms"
+
+// UnCommit 
+1. git reset --soft HEAD^
+2. git reset HEAD^
+3. git reset --hard HEAD^
+
+// Connect remot repository
+1. git remote
+2. git remote add origin (Your remote link)
+3. git remote -v
+4. git clone (your remote link)
